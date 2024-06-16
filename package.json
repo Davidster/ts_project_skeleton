@@ -1,5 +1,5 @@
 {
-  "name": "filereader_bench",
+  "name": "ts_project_skeleton",
   "version": "0.0.1",
   "main": "src/main.ts",
   "scripts": {
